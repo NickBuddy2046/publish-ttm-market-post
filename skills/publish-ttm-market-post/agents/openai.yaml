@@ -1,0 +1,4 @@
+interface:
+  display_name: "TTM 市場文章發佈"
+  short_description: "研究即時市場、撰寫粵語評論、預覽並經確認後安全發佈至 TTM"
+  default_prompt: "Use $publish-ttm-market-post to research today's TTM trends, draft an original Hong Kong Cantonese market article, preview it, and ask before publishing."
