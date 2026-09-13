@@ -14,7 +14,20 @@ Create a timely, evidence-based TTM article in Hong Kong Cantonese. Keep draftin
 - Aim for roughly 900–1,400 Chinese characters unless the user requests another length.
 - Use a clear personal thesis while separating verified facts, inference, and opinion.
 - Avoid guaranteed-return language, direct trade commands, invented figures, and exaggerated claims.
+- Vary the opening: do not routinely begin with「TTM而家熱議」or mention TTM just to signal the platform. Start with the market event, verified data, or the article's thesis; mention TTM naturally only when the platform topic or source is genuinely relevant.
+- Do not write process notes such as「我喺平台見到／我讀到熱議快照」as a substitute for analysis. Convert any platform observation into the author's own finding, explain the inference, and state what would confirm or disprove it; keep source or timestamp notes only when they materially support the claim.
 - End with a discussion question, focused hashtags, source links, and a statement that the article is not investment advice.
+
+### Reader-retention writing pattern
+
+Use the successful parts of high-engagement market notes without copying another author's wording or unsupported claims:
+
+- Build the title from「事件／時間＋標的＋核心矛盾＋可驗證問題」. Make the reader know what decision the article helps them test; do not use「TTM」as a routine title prefix.
+- In the first two paragraphs, give a one-sentence thesis and name the key conflict (for example, price strength versus weakening breadth). Do not make readers scroll before they know the point.
+- Keep the body highly scannable with short sections such as「已知數據」「核心矛盾」「情境一／二／三」「程式規則」「何時不做」. Use a recurring series label only when it genuinely fits (for example, 交易前思考、事件後驗證、盤後復盤).
+- Anchor claims to a decision window: publish before the next meaningful catalyst when the facts are already verified, and state the exact time/date being referenced.
+- Finish with one specific question about the framework or a measurable follow-up, rather than a generic request for opinions.
+- Prioritize topic relevance, evidence density, and repeatable format over sensational wording or attempts to game views. Treat any expected recommendation effect as an inference, not a platform guarantee.
 
 If the author's profile focuses on program trading, make that identity visible in the thesis and execution framework. Convert market commentary into rules another person could implement or test:
 
@@ -79,14 +92,26 @@ For a publishing request:
 
 Choose the thesis before choosing or generating images. Every image must support a specific paragraph, dataset, scenario, or causal chain in the article.
 
+#### Visual-first standard
+
+Treat the image as an editorial visual, not a text card or a second copy of the article. Use one dominant visual idea tied to the thesis—such as a candlestick breakout with breadth, a rate-to-sector flow, a heatmap, an event timeline, or a clearly labelled market-data chart—and let that visual carry the story.
+
+- Keep text inside an image to a few short labels (normally no more than 3–5 labels, each brief); never place paragraphs, source notes, disclaimers, or the full title/body inside the artwork. Put explanations and credits in the article caption or source section.
+- Make the visual area dominant, with clear hierarchy, contrast, whitespace, and mobile-readable marks. A useful target is roughly 70–85% visual/chart/diagram content and no more than 15–30% labels.
+- Prefer a clean original chart or diagram when no suitable rights-cleared news image exists. Do not fill the canvas with decorative words, generic icons, or unrelated stock imagery just to meet the image requirement.
+- For generated artwork, show the actual instruments, price/volume relationships, or causal flow discussed in the article; label illustrative values as illustrative. If the result looks like a poster made of text, regenerate it before uploading.
+- Inspect the image in the editor/preview at a mobile-like width: the thesis should be visually understandable without zooming into tiny text, and the image should still look intentional when the caption is hidden.
+
 - Prefer an original first image that visually explains the article's core thesis and can serve as the automatic cover.
+- Place the first image immediately after the opening one or two paragraphs, before the first detailed section. It should reward readers before they need to scroll far.
+- Place each later image beside the paragraph or section it explains. For a two-image article, put the second image around the middle—normally beside the verified facts, scenario thresholds, or execution rules—and never group both images at the end unless the article deliberately needs an appendix.
 - When a second news or data image adds evidence, prefer a primary-source chart, filing excerpt, exchange notice, government chart, or other clearly reusable authoritative material.
 - Verify reuse rights before uploading an external image. Government material may be reusable, but check the source's stated policy, retain its source line, and avoid protected seals, emblems, or third-party photographs.
 - Do not reuse a media outlet's or another TTM author's cover merely because it looks newsworthy.
 - Add a factual caption that explains why the image is present and credits the source.
 - If the browser upload fails, follow the selected browser's file-upload troubleshooting instructions instead of bypassing its security controls.
 
-After uploading, verify that each image has a hosted TTM URL, renders in preview, appears in the intended position without splitting a sentence, and has the correct caption. Keep the automatic cover when the first image is suitable; use a custom cover only when the user asks or the automatic choice is visibly wrong.
+Set the editor cursor at the intended paragraph boundary before each upload. After uploading, verify that each image has a distinct hosted TTM URL, renders in preview, appears in the intended position without splitting a sentence, and has the correct caption. If TTM silently appends an image to the end, reposition it or rebuild the draft before review; do not accept the right image in the wrong place. Keep the automatic cover when the first image is suitable; use a custom cover only when the user asks or the automatic choice is visibly wrong.
 
 ### 7. Preview and optionally run an independent review
 
@@ -95,6 +120,7 @@ Preview the complete article and verify:
 - Exact title and visible publishing account.
 - Natural Hong Kong Cantonese and a thesis consistent with the author's profile.
 - Paragraph order, image placement, image count, captions, sources, topic, and disclaimer.
+- The first image appears near the opening and any second image appears in the relevant middle section, rather than all images being stacked after the disclaimer.
 - Factual values, dates, expectations versus official releases, and any reuse-rights claim.
 - For program-trading articles: inputs, thresholds, confirmation, no-trade logic, entry timing, risk, stop, and re-entry rules.
 
